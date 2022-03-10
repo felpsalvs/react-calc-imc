@@ -9,3 +9,5 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 
 ### Para rodar
 -`npm start`
+
+Link da demo: https://exercises-pink.vercel.app/
