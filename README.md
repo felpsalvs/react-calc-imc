@@ -11,4 +11,9 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 ### Para rodar
 -`npm start`
 
-Link da demo: https://exercises-pink.vercel.app/
+Link da demo: https://exercises-pink.vercel.app/ <br/>
+Entre em contato comigo, para conexão, sugestão ou dúvida! <br/>
+
+profelipealves@outlook.com <br/>
+
+https://www.linkedin.com/in/felipe-alves7/
