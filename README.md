@@ -5,12 +5,6 @@ Projeto em ReactJS + Typescript fazendo uma calculadora de IMC. Eu tinha curiosi
 
 Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 
-### Instalação
--`npm install`
-
-### Para rodar
--`npm start`
-
 Link da demo: https://exercises-pink.vercel.app/ <br/>
 Entre em contato comigo, para conexão, sugestão ou dúvida! <br/>
 
